@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Israqanik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Natural Languale Processing (NLP).
-- 💞️ I’m looking to collaborate on ... Deep learning.
+- 👀 I’m interested in ... Artificial General Intelligence (AGI).
+- 🌱 I’m currently learning ... Natural Language Processing (NLP).
+- 💞️ I’m looking to collaborate on ... Deep Learning(tensorflow).
 - 📫 How to reach me ... israk.com@gmail.com
 
 <!---
