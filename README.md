@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Israqanik
+- 👋 Hi, I’m Israq Ahmed Anik
 - 👀 I’m interested in ... Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), UI/UX design, Data Science, Bioinformatics, Natural Language Processing (NLP), and Information Security.
 - 🌱 I’m currently learning ... User Interface (UI) Design.
 - 💞️ I’m looking to collaborate on ... Deep Learning (tensorflow).
